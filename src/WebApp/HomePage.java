@@ -8,5 +8,5 @@ public class HomePage {
 
     // More things for the homepage
 
-    //logog
+    //logo
 }
